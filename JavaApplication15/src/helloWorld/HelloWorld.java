@@ -13,6 +13,7 @@ public class HelloWorld {
         a = 5;
         b = 7;
         System.out.println(a*b);
+        System.out.println("Add, commit, push!");
         
     }
     
